@@ -9,16 +9,13 @@
     justify-content: space-between;
     align-items: center;
     background-color: #390958;
+}
 
 .cartao {
     width: 260px;
     height: 200px;
 }
  
-.cartao-frente, .cartao-verso {
-width: 100%;
-}
-
 .cartao-imagem {
     width: 100% ;
 }
@@ -26,5 +23,13 @@ width: 100%;
 body{
   display: flex;
 flex-direction: column;
-min-heigth: 100vh;
+  min-height: 100vh;
+}
+
+main {
+     flex: 1;
+}
+
+.cabecalho-link{
+    color:#390958
 }

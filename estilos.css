@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
+    background-color: #390958;
 
 .cartao {
     width: 260px;

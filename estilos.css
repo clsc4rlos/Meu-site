@@ -1,14 +1,14 @@
 {
     margin: 0;
     padding: 0;
-  }
+}
 
   .cabecalho {
     padding: 15px 25px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #390958;
+    background-color: #a69dac;
   }
 
   .cartao {
@@ -29,11 +29,12 @@
 
   main {
     flex: 1;
-  }
+  }}
 
   .cabecalho-link {
-    color: #fff text-decoration: none;
+    color: #fff text-decoration: none; 
   }
+  
 
   h1 {
     color: #fff
